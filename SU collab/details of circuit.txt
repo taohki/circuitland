@@ -1,0 +1,5 @@
+* The parameters of the JTL. Right now I’m using L=41pH, J=4uA, I=6uA.
+
+* The inductance between the JTL junctions and the comparator loop. 
+
+* Rough bias currents for Ib1 and Ib2. I’ve done several 2D sweeps and can’t find a place where the circuit works as expected. I can get no pulse propagation, pulse propagation, or every-other-pulse propagation, but nothing that depends on the flux added to the loop.
